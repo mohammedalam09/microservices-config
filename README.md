@@ -1,3 +1,3 @@
 # microservices-config
 
-Hey there , Coder This repository is used for 
+Hey Coder This repository is used for 
